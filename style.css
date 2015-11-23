@@ -3,10 +3,11 @@
 	padding: 0px;
 }
 #wrapper{
-	width: 970px;
+	width: 600px;
 	margin: 0 auto;
 	overflow: hidden;
-	background-color: black
+	background-color: black;
+	padding: 2px;
 }
 #dojo{
 	padding-bottom: 10px;
@@ -15,7 +16,19 @@
 #lorem{
 	padding-bottom: 10px;
 	color: white;
+	text-align: justify;
 }
 .img{
 	border: 5px solid gray;
+	width: 400px;
+	height: 250px;
+}
+#block1{
+	display: block;
+}
+#block2{
+	display: block;
+}
+.inlineblock{
+	display: inline-block;
 }
