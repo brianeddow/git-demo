@@ -6,12 +6,15 @@
 	width: 970px;
 	margin: 0 auto;
 	overflow: hidden;
+	background-color: black
 }
 #dojo{
 	padding-bottom: 10px;
+	color: white;
 }
 #lorem{
 	padding-bottom: 10px;
+	color: white;
 }
 .img{
 	border: 5px solid gray;
