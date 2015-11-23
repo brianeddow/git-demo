@@ -20,14 +20,16 @@
 }
 .img{
 	border: 5px solid gray;
-	width: 400px;
-	height: 250px;
+	width: 280px;
+	height: 190px;
 }
 #block1{
 	display: block;
+	padding-left: 8px;
 }
 #block2{
 	display: block;
+	padding-left: 8px;
 }
 .inlineblock{
 	display: inline-block;
