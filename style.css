@@ -1,0 +1,18 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+#wrapper{
+	width: 970px;
+	margin: 0 auto;
+	overflow: hidden;
+}
+#dojo{
+	padding-bottom: 10px;
+}
+#lorem{
+	padding-bottom: 10px;
+}
+.img{
+	border: 5px solid gray;
+}
